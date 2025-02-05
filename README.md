@@ -1,11 +1,18 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
+<div align="center">
+<h2 style="font-size: 2.5em">
+
 ```bash
 $ whoami
-Nikhil Mishra
+> Nikhil Mishra
 ```
+</h2>
+</div>
+
 <h2 align="center">DevOps Engineer | Infrastructure Enthusiast | Automation Wizard</h2>
-<img align="right" alt="DevOps" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600437c96.gif">
+
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 [![](https://visitcount.itsvg.in/api?id=kaalpanikh&icon=0&color=0)](https://visitcount.itsvg.in)
 
@@ -23,11 +30,17 @@ Nikhil Mishra
 </p>
 
 <h3 align="left">🔗 My Digital Space:</h3>
-<p align="left">
-<a href="https://nikhilmishra.live" target="_blank"><img src="https://img.shields.io/badge/Blog-nikhilmishra.live-2ea44f?style=for-the-badge&logo=github" alt="Blog"></a>
-<a href="https://dukaan.nikhilmishra.live" target="_blank"><img src="https://img.shields.io/badge/Internship-Dukaan%20Blog-FF6B6B?style=for-the-badge&logo=blogger" alt="Dukaan Blog"></a>
-<a href="https://cv.nikhilmishra.live" target="_blank"><img src="https://img.shields.io/badge/Resume-View%20CV-4A90E2?style=for-the-badge&logo=read-the-docs" alt="Resume"></a>
-</p>
+<div align="left">
+  <a href="https://nikhilmishra.live" target="_blank">
+    <img src="https://img.shields.io/badge/My_Blog-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Blog"/>
+  </a>
+  <a href="https://dukaan.nikhilmishra.live" target="_blank">
+    <img src="https://img.shields.io/badge/Dukaan_Blog-%23FF5722.svg?style=for-the-badge&logo=blogger&logoColor=white" alt="Dukaan Blog"/>
+  </a>
+  <a href="https://cv.nikhilmishra.live" target="_blank">
+    <img src="https://img.shields.io/badge/My_Resume-%23DD0031.svg?style=for-the-badge&logo=readme&logoColor=white" alt="Resume"/>
+  </a>
+</div>
 
 <h3 align="left">🛠 DevOps Arsenal:</h3>
 <p align="left">
@@ -46,6 +59,8 @@ Nikhil Mishra
 </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kaalpanikh&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kaalpanikh&theme=blueberry&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaalpanikh&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kaalpanikh&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaalpanikh&theme=blueberry&hide_border=false" alt="GitHub Streak Stats" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaalpanikh&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</p>
