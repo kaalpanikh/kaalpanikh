@@ -7,7 +7,8 @@ $ whoami
 > Nikhil Mishra
 ```
 </h1>
-<h3>Inquisitive DevOps Engineer</h3>
+<h2>Inquisitive DevOps Engineer</h2>
+
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/214375888-0dc62524-fb43-43fd-9479-098b471d1b9c.gif">
