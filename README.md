@@ -67,12 +67,9 @@ $ whoami
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 # 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kaalpanikh&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="400" alt="GitHub Stats">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kaalpanikh&theme=tokyonight&hide_border=false" width="400" alt="GitHub Streak Stats">
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaalpanikh&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="400" alt="Top Languages">
-</p>
-
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=kaalpanikh&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="390">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kaalpanikh&theme=tokyonight&hide_border=false" width="390">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaalpanikh&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="390">
+</div>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
