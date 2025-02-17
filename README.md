@@ -11,13 +11,6 @@ $ whoami
 
 </div>
 
-# 💫 About Me
-🚀 Passionate about leaning to automate everything in sight<br>
-🛠️ Currently deep diving into Cloud Native technologies<br>
-🔄 Building CI/CD pipelines and infrastructure as code<br>
-🌟 Learning and growing through hands-on experience<br>
-⚡ Fun fact: I learn, build and tweet about it everyday! ☕
-
 # 🌐 Connect With Me
 <p align="left">
 <a href="https://twitter.com/kaalpanikhitis" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" height="50" width="50" /></a>
