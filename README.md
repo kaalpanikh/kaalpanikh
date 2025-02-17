@@ -7,7 +7,7 @@ $ whoami
 > Nikhil Mishra
 ```
 </h1>
-<h2>Inquisitive DevOps Engineer</h2>
+<h1>Inquisitive DevOps Engineer</h1>
 
 </div>
 
