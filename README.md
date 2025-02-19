@@ -15,10 +15,14 @@ $ whoami
 <p align="left">
 <a href="https://twitter.com/kaalpanikhitis" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" height="50" width="50" /></a>
 <a href="https://linkedin.com/in/nikhil-mishra-392503306" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="50" width="50" /></a>
+<a href="https://links.nikhilmishra.live" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" height="50" width="50" /></a>
 </p>
 
 # 🔗 My Digital Space
 <div align="left">
+  <a href="https://iam.nikhilmishra.live" target="_blank">
+    <img src="https://img.shields.io/badge/-My_Website-%23232F3E.svg?style=for-the-badge&logo=safari&logoColor=white" />
+  </a>
   <a href="https://nikhilmishra.live" target="_blank">
     <img src="https://img.shields.io/badge/-My_Blog-%23232F3E.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
   </a>
