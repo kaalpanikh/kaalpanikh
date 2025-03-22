@@ -32,6 +32,9 @@ $ whoami
   <a href="https://cv.nikhilmishra.live" target="_blank">
     <img src="https://img.shields.io/badge/-My_Resume-%23DD0031.svg?style=for-the-badge&logo=readme&logoColor=white" />
   </a>
+  <a href="https://aushadhiai.nikhilmishra.live" target="_blank">
+    <img src="https://img.shields.io/badge/-AushadhiAI-%2347A248.svg?style=for-the-badge&logo=ai&logoColor=white" />
+  </a>
 </div>
 
 # 🛠 DevOps Arsenal
