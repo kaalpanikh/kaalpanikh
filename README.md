@@ -1,7 +1,3 @@
-<div align="center">
-<h1>Inquisitive DevOps Engineer</h1>
-</div>
-
 # 🌐 Connect With Me
 <p align="left">
 <a href="https://twitter.com/kaalpanikhitis" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" height="50" width="50" /></a>
