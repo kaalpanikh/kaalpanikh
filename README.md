@@ -20,19 +20,19 @@ $ whoami
 
 # 🔗 My Digital Space
 <div align="left">
-  <a href="https://iam.nikhilmishra.live" target="_blank">
+  <a href="https://iam.nikhilmishra.xyz" target="_blank">
     <img src="https://img.shields.io/badge/-My_Website-%23232F3E.svg?style=for-the-badge&logo=safari&logoColor=white" />
   </a>
-  <a href="https://nikhilmishra.live" target="_blank">
+  <a href="https://nikhilmishra.xyz" target="_blank">
     <img src="https://img.shields.io/badge/-My_Blog-%23232F3E.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
   </a>
-  <a href="https://dukaan.nikhilmishra.live" target="_blank">
+  <a href="https://dukaan.nikhilmishra.xyz" target="_blank">
     <img src="https://img.shields.io/badge/-Dukaan_Blog-%23146EB4.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTYgMjU2Ij48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTIwNi41IDIxMi41aC0xNTdhLTcuNSA3LjUtMCAwIDEtNy40LTYuM2wtMjYtMTQwYTcuNSA3LjUtMCAwIDEgNy40LTguN2gyMDJhNy41IDcuNS0wIDAgMSA3LjQgOC43bC0yNiAxNDBhNy41IDcuNS0wIDAgMS03LjQgNi4zWk00OS41IDQzLjVhNy41IDcuNS0wIDAgMC03LjQgOC43bDI2IDE0MGE3LjUgNy41LTAgMCAwIDcuNCA2LjNoMTU3YTcuNSA3LjUtMCAwIDAgNy40LTYuM2wyNi0xNDBhNy41IDcuNS0wIDAgMC03LjQtOC43WiIvPjxwYXRoIGZpbGw9IndoaXRlIiBkPSJNMTg2LjUgMjU2aC0xMTdhNy41IDcuNS0wIDAgMS03LjUtNy41IDcuNSA3LjUtMCAwIDEgNy41LTcuNWgxMTdhNy41IDcuNS0wIDAgMSA3LjUgNy41IDcuNSA3LjUtMCAwIDEtNy41IDcuNVoiLz48L3N2Zz4=" />
   </a>
-  <a href="https://cv.nikhilmishra.live" target="_blank">
+  <a href="https://cv.nikhilmishra.xyz" target="_blank">
     <img src="https://img.shields.io/badge/-My_Resume-%23DD0031.svg?style=for-the-badge&logo=readme&logoColor=white" />
   </a>
-  <a href="https://aushadhiai.nikhilmishra.live" target="_blank">
+  <a href="https://aushadhiai.nikhilmishra.xyz" target="_blank">
     <img src="https://img.shields.io/badge/-AushadhiAI-%2347A248.svg?style=for-the-badge&logo=ai&logoColor=white" />
   </a>
 </div>
