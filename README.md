@@ -1,4 +1,4 @@
-# 🌐 Connect With Me
+# 🌐 Connect With Me 
 <p align="left">
 <a href="https://twitter.com/kaalpanikhitis" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" height="50" width="50" /></a>
 <a href="https://linkedin.com/in/nikhil-mishra-392503306" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="50" width="50" /></a>
@@ -7,7 +7,7 @@
 
 # 🔗 My Digital Space
 <div align="left">
-  <a href="https://iam.nikhilmishra.xyz" target="_blank">
+  <a href="https://nikhilmishra.xyz" target="_blank">
     <img src="https://img.shields.io/badge/-My_Website-%23232F3E.svg?style=for-the-badge&logo=safari&logoColor=white" />
   </a>
   <a href="https://nikhilmishra.xyz" target="_blank">
