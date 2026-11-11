@@ -6,10 +6,6 @@ i keep 40+ enterprise brands online across 30+ cloud environments on aws, azure,
 
 **my favourite loop**
 
-```
-infra requirements → client signs off → staging built → staging live → prod goes live 🚀 → runs smooth
-```
-
 i love taking a project the whole way. i write up the infra the client needs, we land on what both sides agree to, i set up staging and get it live, and then comes the best part: **prod going live**. after that, the job is keeping it boring, which in sre terms means stable.
 
 **things i'm into**
