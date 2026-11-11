@@ -20,6 +20,6 @@ claude is my ops partner for ssm audits, runbooks i'll thank myself for at 3am, 
 
 **before this**
 
-devops at [behooked](https://behooked.ai) and sre at [dukaan](https://mydukaan.io) ([wrote about it](https://nikhilmishra.notion.site/SRE-INTERN-AT-DUKAAN-2d242bb787194466bfe3577b80735100)), where i learned what "works on my machine" costs at scale.
+devops at [beHooked](https://behooked.ai) and sre at [dukaan](https://mydukaan.io) ([wrote about it](https://nikhilmishra.notion.site/SRE-INTERN-AT-DUKAAN-2d242bb787194466bfe3577b80735100)), where i learned what "works on my machine" costs at scale.
 
 [blog](https://nikhilmishra.xyz) · [resume](https://cv.nikhilmishra.xyz) · [links](https://links.nikhilmishra.xyz) · [twitter](https://twitter.com/kaalpanikhitis) · [linkedin](https://linkedin.com/in/nikhil-mishra-392503306)
