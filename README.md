@@ -1,4 +1,4 @@
-hey, i'm nikhil 👋
+hey, i'm nikhil 👋.    
 
 sre at [schbang](https://www.schbang.com). basically the person who gets the call when the website is down.
 
