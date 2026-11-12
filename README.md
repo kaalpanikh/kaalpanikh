@@ -1,6 +1,6 @@
-hey, i'm nikhil 👋.    
+hey, i'm nikhil mishra 👋
 
-sre at [schbang](https://www.schbang.com). basically the person who gets the call when the website is down.
+devops & sre at [schbang](https://www.schbang.com). basically the person who gets the call when the website is down.
 
 i keep 40+ enterprise brands online across 30+ cloud environments on aws, azure, cloudflare, digitalocean and e2e, some in our accounts and some deep inside theirs.
 
