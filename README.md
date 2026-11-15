@@ -1,4 +1,4 @@
-hey, i'm nikhil mishra 👋
+hey, i'm nikhil mishra 👋.   
 
 devops & sre at [schbang](https://www.schbang.com). basically the person who gets the call when the website is down.
 
